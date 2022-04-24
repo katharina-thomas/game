@@ -29,16 +29,14 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;}
 
 
-/* Grey Content-Boxes */
-div.a {
-	width: 70%;
-	border: 1px solid black;
-}
-
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
+
+.game {
+	width: 70%
+}
 
 body {
 	line-height: 1;
